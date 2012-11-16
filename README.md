@@ -5,7 +5,7 @@ just for me
 
 #Hello this is for myself~!
 ##Lesson 0
-    * how to use github goto to web
+ * how to use github goto to web
 
 ###hello.c
     #include <stdio.h>
