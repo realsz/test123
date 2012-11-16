@@ -10,14 +10,14 @@ just for me
 goto to web
 
 ###hello.c
-  #include <stdio.h>
-  int main(void)
-  {
-    printf("Hello,NCCL\n");
-    
-    return 0;
-  }
-    
+    #include <stdio.h>
+    int main(void)
+    {
+      printf("Hello,NCCL\n");
+      
+      return 0;
+    }
+      
 
 
 
